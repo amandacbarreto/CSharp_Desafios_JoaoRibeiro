@@ -1,0 +1,11 @@
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\bin\Debug\Desafio005.exe.config
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\bin\Debug\Desafio005.exe
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\bin\Debug\Desafio005.pdb
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\obj\Debug\Desafio005.csproj.AssemblyReference.cache
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\obj\Debug\Desafio005.csproj.SuggestedBindingRedirects.cache
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\obj\Debug\Desafio005.Form1.resources
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\obj\Debug\Desafio005.Properties.Resources.resources
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\obj\Debug\Desafio005.csproj.GenerateResource.cache
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\obj\Debug\Desafio005.csproj.CoreCompileInputs.cache
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\obj\Debug\Desafio005.exe
+C:\Users\amandab\Documents\Workspace_Extra\CSharp_Desafios_JoaoRibeiro\Desafio005\Desafio005\obj\Debug\Desafio005.pdb
