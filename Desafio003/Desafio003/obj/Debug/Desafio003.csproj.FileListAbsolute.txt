@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Desafio003\Desafio003\obj\Debug\Desafio003.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Desafio003\Desafio003\obj\Debug\Desafio003.Form1.resources
+C:\Users\user\source\repos\Desafio003\Desafio003\obj\Debug\Desafio003.Properties.Resources.resources
+C:\Users\user\source\repos\Desafio003\Desafio003\obj\Debug\Desafio003.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Desafio003\Desafio003\obj\Debug\Desafio003.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Desafio003\Desafio003\bin\Debug\Desafio003.exe.config
+C:\Users\user\source\repos\Desafio003\Desafio003\bin\Debug\Desafio003.exe
+C:\Users\user\source\repos\Desafio003\Desafio003\bin\Debug\Desafio003.pdb
+C:\Users\user\source\repos\Desafio003\Desafio003\obj\Debug\Desafio003.exe
+C:\Users\user\source\repos\Desafio003\Desafio003\obj\Debug\Desafio003.pdb
