@@ -1,0 +1,10 @@
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\bin\Debug\Desafio004.exe.config
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\bin\Debug\Desafio004.exe
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\bin\Debug\Desafio004.pdb
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\obj\Debug\Desafio004.csproj.AssemblyReference.cache
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\obj\Debug\Desafio004.Form1.resources
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\obj\Debug\Desafio004.Properties.Resources.resources
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\obj\Debug\Desafio004.csproj.GenerateResource.cache
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\obj\Debug\Desafio004.csproj.CoreCompileInputs.cache
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\obj\Debug\Desafio004.exe
+D:\Workspace\CSharp_Desafios_JoaoRibeiro\Desafio004\Desafio004\Desafio004\obj\Debug\Desafio004.pdb
