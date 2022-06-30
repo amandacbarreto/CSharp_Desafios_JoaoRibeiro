@@ -4,32 +4,21 @@
 
 ## Objetivo
 
-:heavy_check_mark: Quadro de login com usuário, senha e botão para entrar. 
-:heavy_check_mark: Ao teclar enter, passar para campo seguinte ou executar automaticamente o evento para entrar. 
-:heavy_check_mark: Suprimir os Beeps na passagem dos campos.
+- :heavy_check_mark: Quadro de login com usuário, senha e botão para entrar. 
+- :heavy_check_mark: Ao teclar enter, passar para campo seguinte ou executar automaticamente o evento para entrar. 
+- :heavy_check_mark: Suprimir os Beeps na passagem dos campos.
 
 ## Conceitos aprendidos
 
-* Caixas de feramentas -> Controles comuns
-* * TextBox
-* * Label
-* * Button
+Caixas de feramentas -> Controles comuns
+* TextBox
+* Label
+* Button
 
 ### Propriedades de controles
 
 * `Text`: texto que será exibido 
 * `Name`: como o campo será acessado pelo programa (parte lógica)
-
-### Desabilitando o botão de entrar até que ambos os campos estejam preenchidos
-
-1. Duplo clique no formulário, para que seja aberto o Form1.cs
-
-```c#
-private void Form1_Load(object sender, EventArgs e)
-{
-    cmd_entrar.Enabled = false;
-}
-```
 
 ### Ordem de tabulação (tab order): elementos que receberão foco
 
@@ -48,6 +37,17 @@ private void Form1_Load(object sender, EventArgs e)
 Para garantir que a aplicação comece centralizada na tela do computador, mude a seguinte propriedade.
 
 `StartPosition`: CenterScreen
+
+### Desabilitando o botão de entrar até que ambos os campos estejam preenchidos
+
+1. Duplo clique no formulário, para que seja aberto o Form1.cs
+
+```c#
+private void Form1_Load(object sender, EventArgs e)
+{
+    cmd_entrar.Enabled = false;
+}
+```
 
 ### Eventos
 
