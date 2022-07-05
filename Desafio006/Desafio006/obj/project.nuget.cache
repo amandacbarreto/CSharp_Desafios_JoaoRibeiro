@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ySMRmA9WFro0qR+H6kh0WS3tjQXQLPTWwgv+VDIZgomCXNXybT5+T70yMvyCjTaX2EhTZA473SCo72mV8k9AhA==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\CSharp_Desafios_JoaoRibeiro\\Desafio006\\Desafio006\\Desafio006.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
